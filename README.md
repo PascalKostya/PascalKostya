@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @PascalKostya
-- 👀 I’m interested in ponies
-- 🌱 I’m currently learning my life...
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me: Discord: PascalOz#2052, VK: https://vk.com/pascaloz
+howdy
+PascalOz#2052
